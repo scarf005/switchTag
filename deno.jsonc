@@ -1,0 +1,12 @@
+{
+  "tasks": {
+    "test": "deno test --watch"
+  },
+  "fmt": {
+    "semiColons": false,
+    "lineWidth": 100
+  },
+  "compilerOptions": {
+    "exactOptionalPropertyTypes": true
+  }
+}
